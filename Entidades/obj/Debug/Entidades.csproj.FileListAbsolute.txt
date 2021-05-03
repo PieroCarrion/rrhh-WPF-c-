@@ -1,0 +1,16 @@
+c:\users\usuario\documents\visual studio 2015\Projects\rrhh\Entidades\bin\Debug\Entidades.dll
+c:\users\usuario\documents\visual studio 2015\Projects\rrhh\Entidades\bin\Debug\Entidades.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\rrhh\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\rrhh\Entidades\obj\Debug\Entidades.dll
+c:\users\usuario\documents\visual studio 2015\Projects\rrhh\Entidades\obj\Debug\Entidades.pdb
+D:\Dowloads\rrhh (1)\rrhh\Entidades\bin\Debug\Entidades.dll
+D:\Dowloads\rrhh (1)\rrhh\Entidades\bin\Debug\Entidades.pdb
+D:\Dowloads\rrhh (1)\rrhh\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Dowloads\rrhh (1)\rrhh\Entidades\obj\Debug\Entidades.dll
+D:\Dowloads\rrhh (1)\rrhh\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\obj\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Entidades\obj\Debug\Entidades.pdb

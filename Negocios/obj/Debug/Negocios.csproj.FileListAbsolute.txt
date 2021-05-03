@@ -1,0 +1,29 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Negocios.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Negocios.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Datos.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\obj\Debug\Negocios.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\rrhh\Negocios\obj\Debug\Negocios.pdb
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Negocios.dll
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Negocios.pdb
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Datos.dll
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Entidades.dll
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Datos.pdb
+D:\Dowloads\rrhh (1)\rrhh\Negocios\bin\Debug\Entidades.pdb
+D:\Dowloads\rrhh (1)\rrhh\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\Dowloads\rrhh (1)\rrhh\Negocios\obj\Debug\Negocios.dll
+D:\Dowloads\rrhh (1)\rrhh\Negocios\obj\Debug\Negocios.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Negocios.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Negocios.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Datos.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Datos.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\obj\Debug\Negocios.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\FINAL_FUNDA\FINAL_FUNDA\rrhh\Negocios\obj\Debug\Negocios.pdb

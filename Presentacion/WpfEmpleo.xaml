@@ -1,0 +1,22 @@
+﻿<Window x:Class="Presentacion.WpfEmpleo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="Gestión de Empleos" Height="368.041" Width="402.062">
+    <Grid>
+        <Label x:Name="label" Content="Nombre:" HorizontalAlignment="Left" Margin="29,17,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="128,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label_Copy" Content="Salario Mínimo:" HorizontalAlignment="Left" Margin="29,45,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSalarioMinimo" HorizontalAlignment="Left" Height="23" Margin="128,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label_Copy1" Content="Salario Máximo:" HorizontalAlignment="Left" Margin="29,73,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSalarioMaximo" HorizontalAlignment="Left" Height="23" Margin="128,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="29,118,0,0" VerticalAlignment="Top" Width="75" Click="btnAgregar_Click"/>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="109,118,0,0" VerticalAlignment="Top" Width="75" Click="btnEliminar_Click"/>
+        <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Margin="189,118,0,0" VerticalAlignment="Top" Width="75" Click="btnModificar_Click"/>
+        <DataGrid x:Name="dgEmpleos" HorizontalAlignment="Left" Margin="29,151,0,0" VerticalAlignment="Top" Height="161" Width="338" SelectionChanged="dgEmpleos_SelectionChanged"/>
+
+    </Grid>
+</Window>
